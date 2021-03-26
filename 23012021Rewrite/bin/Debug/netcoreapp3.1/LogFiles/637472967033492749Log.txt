@@ -1,0 +1,6 @@
+22:25:03 Discord     Discord.Net v2.2.0 (API v6)
+22:25:13 Gateway     Connecting
+22:25:14 Gateway     Connected
+22:25:14 Gateway     Ready
+26/01/2021 22:26:49 general The_miro#2979:update on the logging part: appearantly DateTime.Now uses whatever date format you have set on your pc
+exiting

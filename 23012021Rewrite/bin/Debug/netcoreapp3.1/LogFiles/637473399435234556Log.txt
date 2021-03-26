@@ -1,0 +1,8 @@
+10:25:43 Discord     Discord.Net v2.2.0 (API v6)
+10:25:45 Gateway     Connecting
+10:25:46 Gateway     Connected
+10:25:46 Gateway     Ready
+27/01/2021 10:26:05 botcmd The_miro#2979:mb!setroundstatus O
+27/01/2021 10:26:38 botcmd The_miro#2979:mb!setstatus someting's wrong
+27/01/2021 10:26:52 botcmd The_miro#2979:mb!setroundstatus D
+exiting

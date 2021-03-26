@@ -1,0 +1,6 @@
+13:21:41 Discord     Discord.Net v2.2.0 (API v6)
+13:21:43 Gateway     Connecting
+13:21:43 Gateway     Connected
+13:21:44 Gateway     Ready
+26.01.2021 13:21:58general The_miro#2979:hah my bot now logs messages
+exiting

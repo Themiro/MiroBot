@@ -1,0 +1,36 @@
+22:38:34 Discord     Discord.Net v2.2.0 (API v6)
+22:38:36 Gateway     Connecting
+22:38:37 Gateway     Connected
+22:38:37 Gateway     Ready
+30/01/2021 22:38:58 cats-and-other-animals Nic#0022:Omg they’re all so cutw
+30/01/2021 22:39:01 botcmd The_miro#2979:mb!setstatus Testing again
+30/01/2021 22:39:35 cats-and-other-animals KillerofPCs#2325:
+30/01/2021 22:39:56 poworn Bread<3#2484:👍 nice
+30/01/2021 22:39:56 music Nic#0022:~~this doesn’t belong in this channel~~ please just stab me
+30/01/2021 22:40:19 cats-and-other-animals Bread<3#2484:Pat him for me please
+30/01/2021 22:40:24 cats-and-other-animals Bread<3#2484:And her too
+30/01/2021 22:40:38 music Bread<3#2484:🗡️ sure
+30/01/2021 22:40:41 cats-and-other-animals KillerofPCs#2325:i would pat her but she vibin
+30/01/2021 22:40:51 cats-and-other-animals KillerofPCs#2325:i promise Ivar is receiving pats
+30/01/2021 22:42:18 general-vc Behemoth#1007:sorry idk whats up with me today
+30/01/2021 22:43:01 cats-and-other-animals Bread<3#2484:Good kitty
+30/01/2021 22:43:31 cats-and-other-animals KillerofPCs#2325:he sneezed in my mouth
+30/01/2021 22:43:48 cats-and-other-animals Bread<3#2484:Ew
+30/01/2021 22:44:25 military-porn Nic#0022:this reminds me of my cod days, murdering people with the pink flowery prize fighters
+30/01/2021 22:44:44 military-porn Nic#0022:but it’s a knife so 10/10
+30/01/2021 22:45:38 music Nic#0022:wait not you oh no
+30/01/2021 22:46:12 support-chamber Bread<3#2484:I went from hyper and happy about my interests to oh god why am I alive, nobody will ever love me etc.
+30/01/2021 22:46:29 music Bread<3#2484:*hands Miro knife*
+30/01/2021 22:47:42 support-chamber Behemoth#1007:this is me almost every day
+30/01/2021 22:47:47 support-chamber Behemoth#1007:I feel ya <:rainbowheart:640255787654053890>
+30/01/2021 22:48:01 military-porn Wookie#3972:Oh joy. My obsession with knives is gonna skyrocket again
+30/01/2021 22:48:05 support-chamber Bread<3#2484:I had a good day.....why do I feel so bad out of nowhere?
+30/01/2021 22:48:10 support-chamber Bread<3#2484:I just worry
+30/01/2021 22:48:14 support-chamber Behemoth#1007:same same same
+30/01/2021 22:48:18 support-chamber Behemoth#1007:that's literlaly me today
+30/01/2021 22:48:49 military-porn Nic#0022:I hope I get my karambits soon
+30/01/2021 22:48:58 support-chamber Bread<3#2484:Anxiety go brrrrrr
+30/01/2021 22:49:36 support-chamber Behemoth#1007:mood <:rainbowheart:640255787654053890>
+22:50:18 Gateway     System.Exception: Server missed last heartbeat
+   at Discord.ConnectionManager.<>c__DisplayClass29_0.<<StartAsync>b__0>d.MoveNext()
+exiting

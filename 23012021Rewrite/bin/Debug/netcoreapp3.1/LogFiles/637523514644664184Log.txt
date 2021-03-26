@@ -1,0 +1,6 @@
+10:31:04 Discord     Discord.Net v2.2.0 (API v6)
+10:31:07 Gateway     Connecting
+10:31:08 Gateway     Connected
+10:31:08 Gateway     Ready
+26032021 103119 bot-log The_miro#2979:mb!ping
+exiting

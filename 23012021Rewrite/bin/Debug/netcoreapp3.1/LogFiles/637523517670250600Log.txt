@@ -1,0 +1,8 @@
+10:36:07 Discord     Discord.Net v2.2.0 (API v6)
+10:36:08 Gateway     Connecting
+10:36:10 Gateway     Connected
+10:36:10 Gateway     Ready
+26032021 093616 +00:00 underscore_gangcats-and-other-animals Bread<3#2484:
+26032021 093619 +00:00 Bot_Testbot-log The_miro#2979:text
+26032021 093624 +00:00 underscore_gangcats-and-other-animals Cat ❤ | grep meow#2206:<:rainbowheart:640255787654053890>
+exiting

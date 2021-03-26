@@ -1,0 +1,8 @@
+13:13:18 Discord     Discord.Net v2.2.0 (API v6)
+13:13:19 Gateway     Connecting
+13:13:20 Gateway     Connected
+13:13:20 Gateway     Ready
+testing
+testing
+if this is being logged i'm a god
+exiting

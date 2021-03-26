@@ -1,0 +1,72 @@
+D:\Code\##DiscordBOT\23012021Rewrite\23012021Rewrite\bin\Debug\netcoreapp3.1\23012021Rewrite.exe
+D:\Code\##DiscordBOT\23012021Rewrite\23012021Rewrite\obj\Debug\netcoreapp3.1\23012021Rewrite.csprojAssemblyReference.cache
+D:\Code\##DiscordBOT\23012021Rewrite\23012021Rewrite\obj\Debug\netcoreapp3.1\23012021Rewrite.AssemblyInfoInputs.cache
+D:\Code\##DiscordBOT\23012021Rewrite\23012021Rewrite\obj\Debug\netcoreapp3.1\23012021Rewrite.AssemblyInfo.cs
+D:\Code\##DiscordBOT\23012021Rewrite\23012021Rewrite\bin\Debug\netcoreapp3.1\Discord.Net.Commands.dll
+D:\Code\##DiscordBOT\23012021Rewrite\23012021Rewrite\bin\Debug\netcoreapp3.1\Discord.Net.Core.dll
+D:\Code\##DiscordBOT\23012021Rewrite\23012021Rewrite\bin\Debug\netcoreapp3.1\Discord.Net.Rest.dll
+D:\Code\##DiscordBOT\23012021Rewrite\23012021Rewrite\bin\Debug\netcoreapp3.1\Discord.Net.Webhook.dll
+D:\Code\##DiscordBOT\23012021Rewrite\23012021Rewrite\bin\Debug\netcoreapp3.1\Discord.Net.WebSocket.dll
+D:\Code\##DiscordBOT\23012021Rewrite\23012021Rewrite\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Code\##DiscordBOT\23012021Rewrite\23012021Rewrite\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+D:\Code\##DiscordBOT\23012021Rewrite\23012021Rewrite\bin\Debug\netcoreapp3.1\System.Linq.Async.dll
+D:\Code\##DiscordBOT\23012021Rewrite\23012021Rewrite\obj\Debug\netcoreapp3.1\23012021Rewrite.csproj.CopyComplete
+D:\Code\##DiscordBOT\23012021Rewrite\23012021Rewrite\bin\Debug\netcoreapp3.1\23012021Rewrite.deps.json
+D:\Code\##DiscordBOT\23012021Rewrite\23012021Rewrite\bin\Debug\netcoreapp3.1\23012021Rewrite.runtimeconfig.json
+D:\Code\##DiscordBOT\23012021Rewrite\23012021Rewrite\bin\Debug\netcoreapp3.1\23012021Rewrite.runtimeconfig.dev.json
+D:\Code\##DiscordBOT\23012021Rewrite\23012021Rewrite\bin\Debug\netcoreapp3.1\23012021Rewrite.dll
+D:\Code\##DiscordBOT\23012021Rewrite\23012021Rewrite\bin\Debug\netcoreapp3.1\23012021Rewrite.pdb
+D:\Code\##DiscordBOT\23012021Rewrite\23012021Rewrite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Code\##DiscordBOT\23012021Rewrite\23012021Rewrite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Code\##DiscordBOT\23012021Rewrite\23012021Rewrite\obj\Debug\netcoreapp3.1\23012021Rewrite.csproj.CoreCompileInputs.cache
+D:\Code\##DiscordBOT\23012021Rewrite\23012021Rewrite\obj\Debug\netcoreapp3.1\23012021Rewrite.dll
+D:\Code\##DiscordBOT\23012021Rewrite\23012021Rewrite\obj\Debug\netcoreapp3.1\23012021Rewrite.pdb
+D:\Code\##DiscordBOT\23012021Rewrite\23012021Rewrite\obj\Debug\netcoreapp3.1\23012021Rewrite.genruntimeconfig.cache
+F:\Code\##DiscordBOT\23012021Rewrite\23012021Rewrite\bin\Debug\netcoreapp3.1\23012021Rewrite.exe
+F:\Code\##DiscordBOT\23012021Rewrite\23012021Rewrite\bin\Debug\netcoreapp3.1\23012021Rewrite.deps.json
+F:\Code\##DiscordBOT\23012021Rewrite\23012021Rewrite\bin\Debug\netcoreapp3.1\23012021Rewrite.runtimeconfig.json
+F:\Code\##DiscordBOT\23012021Rewrite\23012021Rewrite\bin\Debug\netcoreapp3.1\23012021Rewrite.runtimeconfig.dev.json
+F:\Code\##DiscordBOT\23012021Rewrite\23012021Rewrite\bin\Debug\netcoreapp3.1\23012021Rewrite.dll
+F:\Code\##DiscordBOT\23012021Rewrite\23012021Rewrite\bin\Debug\netcoreapp3.1\23012021Rewrite.pdb
+F:\Code\##DiscordBOT\23012021Rewrite\23012021Rewrite\bin\Debug\netcoreapp3.1\Discord.Net.Commands.dll
+F:\Code\##DiscordBOT\23012021Rewrite\23012021Rewrite\bin\Debug\netcoreapp3.1\Discord.Net.Core.dll
+F:\Code\##DiscordBOT\23012021Rewrite\23012021Rewrite\bin\Debug\netcoreapp3.1\Discord.Net.Rest.dll
+F:\Code\##DiscordBOT\23012021Rewrite\23012021Rewrite\bin\Debug\netcoreapp3.1\Discord.Net.Webhook.dll
+F:\Code\##DiscordBOT\23012021Rewrite\23012021Rewrite\bin\Debug\netcoreapp3.1\Discord.Net.WebSocket.dll
+F:\Code\##DiscordBOT\23012021Rewrite\23012021Rewrite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\Code\##DiscordBOT\23012021Rewrite\23012021Rewrite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Code\##DiscordBOT\23012021Rewrite\23012021Rewrite\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Code\##DiscordBOT\23012021Rewrite\23012021Rewrite\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+F:\Code\##DiscordBOT\23012021Rewrite\23012021Rewrite\bin\Debug\netcoreapp3.1\System.Linq.Async.dll
+F:\Code\##DiscordBOT\23012021Rewrite\23012021Rewrite\obj\Debug\netcoreapp3.1\23012021Rewrite.csprojAssemblyReference.cache
+F:\Code\##DiscordBOT\23012021Rewrite\23012021Rewrite\obj\Debug\netcoreapp3.1\23012021Rewrite.AssemblyInfoInputs.cache
+F:\Code\##DiscordBOT\23012021Rewrite\23012021Rewrite\obj\Debug\netcoreapp3.1\23012021Rewrite.AssemblyInfo.cs
+F:\Code\##DiscordBOT\23012021Rewrite\23012021Rewrite\obj\Debug\netcoreapp3.1\23012021Rewrite.csproj.CoreCompileInputs.cache
+F:\Code\##DiscordBOT\23012021Rewrite\23012021Rewrite\obj\Debug\netcoreapp3.1\23012021Rewrite.csproj.CopyComplete
+F:\Code\##DiscordBOT\23012021Rewrite\23012021Rewrite\obj\Debug\netcoreapp3.1\23012021Rewrite.dll
+F:\Code\##DiscordBOT\23012021Rewrite\23012021Rewrite\obj\Debug\netcoreapp3.1\23012021Rewrite.pdb
+F:\Code\##DiscordBOT\23012021Rewrite\23012021Rewrite\obj\Debug\netcoreapp3.1\23012021Rewrite.genruntimeconfig.cache
+C:\Users\amira\OneDrive - HTL-Rankweil\#FSST_Projekt\23012021Rewrite\23012021Rewrite\bin\Debug\netcoreapp3.1\23012021Rewrite.exe
+C:\Users\amira\OneDrive - HTL-Rankweil\#FSST_Projekt\23012021Rewrite\23012021Rewrite\bin\Debug\netcoreapp3.1\23012021Rewrite.deps.json
+C:\Users\amira\OneDrive - HTL-Rankweil\#FSST_Projekt\23012021Rewrite\23012021Rewrite\bin\Debug\netcoreapp3.1\23012021Rewrite.runtimeconfig.json
+C:\Users\amira\OneDrive - HTL-Rankweil\#FSST_Projekt\23012021Rewrite\23012021Rewrite\bin\Debug\netcoreapp3.1\23012021Rewrite.runtimeconfig.dev.json
+C:\Users\amira\OneDrive - HTL-Rankweil\#FSST_Projekt\23012021Rewrite\23012021Rewrite\bin\Debug\netcoreapp3.1\23012021Rewrite.dll
+C:\Users\amira\OneDrive - HTL-Rankweil\#FSST_Projekt\23012021Rewrite\23012021Rewrite\bin\Debug\netcoreapp3.1\23012021Rewrite.pdb
+C:\Users\amira\OneDrive - HTL-Rankweil\#FSST_Projekt\23012021Rewrite\23012021Rewrite\bin\Debug\netcoreapp3.1\Discord.Net.Commands.dll
+C:\Users\amira\OneDrive - HTL-Rankweil\#FSST_Projekt\23012021Rewrite\23012021Rewrite\bin\Debug\netcoreapp3.1\Discord.Net.Core.dll
+C:\Users\amira\OneDrive - HTL-Rankweil\#FSST_Projekt\23012021Rewrite\23012021Rewrite\bin\Debug\netcoreapp3.1\Discord.Net.Rest.dll
+C:\Users\amira\OneDrive - HTL-Rankweil\#FSST_Projekt\23012021Rewrite\23012021Rewrite\bin\Debug\netcoreapp3.1\Discord.Net.Webhook.dll
+C:\Users\amira\OneDrive - HTL-Rankweil\#FSST_Projekt\23012021Rewrite\23012021Rewrite\bin\Debug\netcoreapp3.1\Discord.Net.WebSocket.dll
+C:\Users\amira\OneDrive - HTL-Rankweil\#FSST_Projekt\23012021Rewrite\23012021Rewrite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\amira\OneDrive - HTL-Rankweil\#FSST_Projekt\23012021Rewrite\23012021Rewrite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\amira\OneDrive - HTL-Rankweil\#FSST_Projekt\23012021Rewrite\23012021Rewrite\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\amira\OneDrive - HTL-Rankweil\#FSST_Projekt\23012021Rewrite\23012021Rewrite\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+C:\Users\amira\OneDrive - HTL-Rankweil\#FSST_Projekt\23012021Rewrite\23012021Rewrite\bin\Debug\netcoreapp3.1\System.Linq.Async.dll
+C:\Users\amira\OneDrive - HTL-Rankweil\#FSST_Projekt\23012021Rewrite\23012021Rewrite\obj\Debug\netcoreapp3.1\23012021Rewrite.csprojAssemblyReference.cache
+C:\Users\amira\OneDrive - HTL-Rankweil\#FSST_Projekt\23012021Rewrite\23012021Rewrite\obj\Debug\netcoreapp3.1\23012021Rewrite.AssemblyInfoInputs.cache
+C:\Users\amira\OneDrive - HTL-Rankweil\#FSST_Projekt\23012021Rewrite\23012021Rewrite\obj\Debug\netcoreapp3.1\23012021Rewrite.AssemblyInfo.cs
+C:\Users\amira\OneDrive - HTL-Rankweil\#FSST_Projekt\23012021Rewrite\23012021Rewrite\obj\Debug\netcoreapp3.1\23012021Rewrite.csproj.CoreCompileInputs.cache
+C:\Users\amira\OneDrive - HTL-Rankweil\#FSST_Projekt\23012021Rewrite\23012021Rewrite\obj\Debug\netcoreapp3.1\23012021Rewrite.csproj.CopyComplete
+C:\Users\amira\OneDrive - HTL-Rankweil\#FSST_Projekt\23012021Rewrite\23012021Rewrite\obj\Debug\netcoreapp3.1\23012021Rewrite.dll
+C:\Users\amira\OneDrive - HTL-Rankweil\#FSST_Projekt\23012021Rewrite\23012021Rewrite\obj\Debug\netcoreapp3.1\23012021Rewrite.pdb
+C:\Users\amira\OneDrive - HTL-Rankweil\#FSST_Projekt\23012021Rewrite\23012021Rewrite\obj\Debug\netcoreapp3.1\23012021Rewrite.genruntimeconfig.cache

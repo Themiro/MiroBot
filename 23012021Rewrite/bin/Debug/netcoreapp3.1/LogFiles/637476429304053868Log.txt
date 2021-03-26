@@ -1,0 +1,6 @@
+22:35:30 Discord     Discord.Net v2.2.0 (API v6)
+22:35:32 Gateway     Connecting
+22:35:33 Gateway     Connected
+22:35:34 Gateway     Ready
+30/01/2021 22:36:35 botcmd The_miro#2979:mb!SetStatus Running again
+exiting

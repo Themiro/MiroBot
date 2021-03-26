@@ -1,0 +1,8 @@
+09:40:35 Discord     Discord.Net v2.2.0 (API v6)
+09:40:36 Gateway     Connecting
+09:40:37 Gateway     Connected
+09:40:38 Gateway     Ready
+03022021 094053 botcmd The_miro#2979:test
+03022021 094103 botcmd The_miro#2979:you see <@!258291320064311296> ?
+03022021 094107 botcmd The_miro#2979:me is logging
+exiting

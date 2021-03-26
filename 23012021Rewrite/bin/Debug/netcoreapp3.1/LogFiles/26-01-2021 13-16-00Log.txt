@@ -1,0 +1,14 @@
+13:16:00 Discord     Discord.Net v2.2.0 (API v6)
+13:16:02 Gateway     Connecting
+13:16:03 Gateway     Connected
+Behemoth#1007:got a haircut today
+13:16:03 Gateway     Ready
+Behemoth#1007:don't like it 😞
+Fish Killer#0067:Oh
+Behemoth#1007:happens i gues
+Fish Killer#0067:I know that feel
+The_miro#2979:guess who just built a bot that can log shit
+Fish Killer#0067:I only ever trim my beard now
+Behemoth#1007:yea thats what im gonna do from now on
+Behemoth#1007:trim my moustache and shave my beard
+exiting

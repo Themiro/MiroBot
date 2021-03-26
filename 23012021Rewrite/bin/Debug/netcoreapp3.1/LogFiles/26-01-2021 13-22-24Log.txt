@@ -1,0 +1,110 @@
+13:22:24 Discord     Discord.Net v2.2.0 (API v6)
+13:22:26 Gateway     Connecting
+13:22:26 Gateway     Connected
+13:22:27 Gateway     Ready
+26.01.2021 13:22:53 general Fish Killer#0067:Kinda, a mullet would mean short sides with the top and back not touched, nothing was touched but the sides ware swept back.
+26.01.2021 13:23:09 general Fish Killer#0067:With a bit to dangle on the side
+26.01.2021 13:23:18 general Fish Killer#0067:it looked pretty good
+13:28:29 Gateway     System.Exception: WebSocket connection was closed
+ ---> System.Net.WebSockets.WebSocketException (0x80004005): The remote party closed the WebSocket connection without completing the close handshake.
+ ---> System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.GetResult(Int16 token)
+   at System.Net.Security.SslStream.<FillBufferAsync>g__InternalFillBufferAsync|215_0[TReadAdapter](TReadAdapter adap, ValueTask`1 task, Int32 min, Int32 initial)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TReadAdapter](TReadAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.ReadBufferedAsyncCore(Memory`1 destination)
+   at System.Net.Http.HttpConnection.RawConnectionStream.ReadAsync(Memory`1 buffer, CancellationToken cancellationToken)
+   at System.Net.WebSockets.ManagedWebSocket.EnsureBufferContainsAsync(Int32 minimumRequiredBytes, CancellationToken cancellationToken, Boolean throwOnPrematureClosure)
+   at System.Net.WebSockets.ManagedWebSocket.ReceiveAsyncPrivate[TWebSocketReceiveResultGetter,TWebSocketReceiveResult](Memory`1 payloadBuffer, CancellationToken cancellationToken, TWebSocketReceiveResultGetter resultGetter)
+   at System.Net.WebSockets.ManagedWebSocket.ReceiveAsyncPrivate[TWebSocketReceiveResultGetter,TWebSocketReceiveResult](Memory`1 payloadBuffer, CancellationToken cancellationToken, TWebSocketReceiveResultGetter resultGetter)
+   at Discord.Net.WebSockets.DefaultWebSocketClient.RunAsync(CancellationToken cancelToken)
+   --- End of inner exception stack trace ---
+   at Discord.ConnectionManager.<>c__DisplayClass29_0.<<StartAsync>b__0>d.MoveNext()
+13:28:29 Gateway     Disconnecting
+13:28:29 Gateway     Disconnected
+13:28:30 Gateway     Connecting
+13:28:31 Gateway     Failed to resume previous session
+13:28:31 Gateway     Connected
+13:28:31 Gateway     Ready
+26.01.2021 13:29:15 general The_miro#2979:there was a hiccup
+26.01.2021 13:29:38 general The_miro#2979:but we're back
+26.01.2021 13:34:06 general Fish Killer#0067:What's the goal?
+26.01.2021 13:34:59 general The_miro#2979:well
+26.01.2021 13:35:20 general The_miro#2979:I'll figure that out when I get to it
+26.01.2021 13:36:54 general The_miro#2979:Also quick test
+26.01.2021 13:37:06 general The_miro#2979:
+26.01.2021 13:37:15 general The_miro#2979:does it handle images
+26.01.2021 13:37:46 general The_miro#2979:yes
+26.01.2021 13:37:48 general The_miro#2979:vaguely
+26.01.2021 13:38:07 general Fish Killer#0067:No idea what's up
+13:39:04 Gateway     System.Exception: WebSocket connection was closed
+ ---> Discord.Net.WebSocketClosedException: The server sent close 1000: ""
+   at Discord.Net.WebSockets.DefaultWebSocketClient.RunAsync(CancellationToken cancelToken)
+   --- End of inner exception stack trace ---
+   at Discord.ConnectionManager.<>c__DisplayClass29_0.<<StartAsync>b__0>d.MoveNext()
+13:39:04 Gateway     Disconnecting
+13:39:04 Gateway     Disconnected
+13:39:05 Gateway     Connecting
+13:39:05 Gateway     Resumed previous session
+13:39:05 Gateway     Connected
+26.01.2021 13:39:50 general The_miro#2979:<@737058391838687333>
+26.01.2021 13:39:56 general The_miro#2979:is up
+26.01.2021 13:40:28 general The_miro#2979:running on my laptop
+26.01.2021 13:41:10 general Fish Killer#0067:What do you want the bot for?
+26.01.2021 13:42:30 general Angelina "Satan" Lotara#9390:Bragging rights
+26.01.2021 13:45:24 general The_miro#2979:i make my plans up as i go
+26.01.2021 13:47:49 general Fish Killer#0067:You sound like my divorced parents
+26.01.2021 14:18:49 memes Bread<3#2484:Naked lizard
+26.01.2021 14:19:00 memes Bread<3#2484:Yes please get me out
+26.01.2021 14:41:29 memes Behemoth#1007:
+26.01.2021 14:43:34 memes Angelina "Satan" Lotara#9390:I was about to ask what kinda bug
+26.01.2021 14:43:38 memes Angelina "Satan" Lotara#9390:They still bebs
+26.01.2021 14:43:57 memes Behemoth#1007:this image makes me experience cognitive dissonance
+26.01.2021 14:44:00 memes Behemoth#1007:I love birds
+26.01.2021 14:44:02 memes Behemoth#1007:but I hate bugs
+26.01.2021 14:44:26 memes Angelina "Satan" Lotara#9390:Love both
+26.01.2021 15:00:39 memes Behemoth#1007:
+26.01.2021 15:18:42 general Fish Killer#0067:https://www.youtube.com/watch?v=7gDKbT_l2us&ab_channel=ContraPoints
+26.01.2021 15:18:50 general Fish Killer#0067:Contra just uploaded
+26.01.2021 15:19:23 general Behemoth#1007:pog
+26.01.2021 15:30:24 memes Nic#0022:
+26.01.2021 15:30:24 memes Nic#0022:
+26.01.2021 15:34:07 memes Angelina "Satan" Lotara#9390:CANABYSS I'M DYING
+26.01.2021 15:34:11 memes Angelina "Satan" Lotara#9390:<@!283311394076753920>
+26.01.2021 15:34:33 general Bread<3#2484:yaaaaaaaa
+26.01.2021 15:34:53 general Angelina "Satan" Lotara#9390:I love her
+15:38:38 Gateway     System.Exception: Server requested a reconnect
+   at Discord.ConnectionManager.<>c__DisplayClass29_0.<<StartAsync>b__0>d.MoveNext()
+15:38:38 Gateway     Disconnecting
+15:38:38 Gateway     Disconnected
+15:38:39 Gateway     Connecting
+15:38:40 Gateway     Failed to resume previous session
+15:38:40 Gateway     Connected
+15:38:41 Gateway     Ready
+26.01.2021 16:03:40 general Angelina "Satan" Lotara#9390:
+26.01.2021 16:03:51 general Angelina "Satan" Lotara#9390:Been practicing my uwu owo ing
+26.01.2021 16:04:18 general Behemoth#1007:oh damn i was expecting a jumpscare
+26.01.2021 16:04:22 general Behemoth#1007:cute tho
+26.01.2021 16:13:21 general Bread<3#2484:The police helicopter is back <:ee:692046629234278410>
+26.01.2021 16:15:24 general Angelina "Satan" Lotara#9390:https://tenor.com/view/aa-gun-anti-air-gun-ciws-minigun-arma3-gif-18927073
+26.01.2021 16:15:30 general Angelina "Satan" Lotara#9390:Shoot it down
+26.01.2021 16:33:50 general Bread<3#2484:pew pew
+26.01.2021 16:33:53 poworn Tantalus#8007:Huh?
+26.01.2021 16:34:02 poworn Bread<3#2484:booba
+26.01.2021 16:34:13 poworn Tantalus#8007:Idk who Tomoko is
+26.01.2021 16:34:21 memes Bread<3#2484:I want the longest one
+26.01.2021 16:34:40 poworn Angelina "Satan" Lotara#9390:one of the gals you posted
+26.01.2021 16:34:52 poworn Angelina "Satan" Lotara#9390:It's been deleted by I think Nix because Tomoko is hella underage
+26.01.2021 16:35:07 poworn Tantalus#8007:Oof
+26.01.2021 16:35:13 poworn Tantalus#8007:What was the image?
+26.01.2021 16:35:19 poworn Angelina "Satan" Lotara#9390:The one with Garfield in it
+26.01.2021 16:35:30 poworn Tantalus#8007:Ohhhh
+26.01.2021 16:35:36 poworn Tantalus#8007:My bad
+26.01.2021 16:35:54 poworn Angelina "Satan" Lotara#9390:I am too weeb for this shit
+26.01.2021 16:43:45 botcmd The_miro#2979:mb!setstatus logs out now
+26.01.2021 16:46:22 botcmd The_miro#2979:mb!setstatus ✨ logs out now
+26.01.2021 16:47:11 botcmd Nic#0022:mm yes sporkles
+26.01.2021 16:47:19 general Nic#0022:
+exiting

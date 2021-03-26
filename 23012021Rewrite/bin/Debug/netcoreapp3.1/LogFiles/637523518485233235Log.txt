@@ -1,0 +1,8 @@
+10:37:28 Discord     Discord.Net v2.2.0 (API v6)
+10:37:30 Gateway     Connecting
+10:37:31 Gateway     Connected
+10:37:32 Gateway     Ready
+26032021 093737 +00:00 Bot_Testbot-log The_miro#2979:jljlö
+26032021 093738 +00:00 Bot_Testbot-log The_miro#2979:klökäökl
+26032021 093750 +00:00 underscore_gangcats-and-other-animals Cat ❤ | grep meow#2206:https://tenor.com/view/cat-wear-bread-face-wacky-gif-9522132
+exiting

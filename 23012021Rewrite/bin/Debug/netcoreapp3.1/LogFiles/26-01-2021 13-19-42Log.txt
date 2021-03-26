@@ -1,0 +1,6 @@
+13:19:42 Discord     Discord.Net v2.2.0 (API v6)
+13:19:43 Gateway     Connecting
+13:19:44 Gateway     Connected
+13:19:45 Gateway     Ready
+botcmd The_miro#2979:text
+exiting

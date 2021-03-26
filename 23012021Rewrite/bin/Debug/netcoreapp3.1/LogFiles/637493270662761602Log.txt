@@ -1,0 +1,8 @@
+10:24:26 Discord     Discord.Net v2.2.0 (API v6)
+10:24:29 Gateway     Connecting
+10:24:31 Gateway     Connected
+10:24:31 Gateway     Ready
+19022021 102513 botcmd The_miro#2979:Testing the bot
+19022021 103301 botcmd The_miro#2979:Test test test
+19022021 103438 botcmd The_miro#2979:mb!setstatus Testing
+exiting
