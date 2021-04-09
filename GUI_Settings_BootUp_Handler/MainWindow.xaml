@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:GUI_Settings_BootUp_Handler"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MiroBot_Launcher" Height="450" Width="800">
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition/>
@@ -29,7 +29,8 @@
                 <RowDefinition Height="20"/>
             </Grid.RowDefinitions>
             <Button x:Name="btn_run_oncurrentsettings" Grid.Column="1" Grid.Row="1" Click="btn_run_oncurrentsettings_Click"/>
-
+          
         </Grid>
+      <Button Grid.Column="0" Grid.Row="1"/>
     </Grid>
 </Window>

@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
+    "\\23012021Rewrite",
     "\\GUI_Settings_BootUp_Handler"
   ],
-  "SelectedNode": "\\23012021Rewrite.sln",
+  "SelectedNode": "\\GUI_Settings_BootUp_Handler\\MainWindow.xaml",
   "PreviewInSolutionExplorer": false
 }
