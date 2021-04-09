@@ -1,0 +1,7 @@
+17:19:18 Discord     Discord.Net v2.2.0 (API v6)
+17:19:19 Gateway     Connecting
+17:19:20 Gateway     Connected
+17:19:21 Gateway     Ready
+26032021 161952 +00:00 Slumgeneral-vc Cat ❤ | grep meow#2206:<:rainbowheart:640255787654053890> <:peepohug:819473370667155494>
+26032021 161952 +00:00 Slumbotcmd The_miro#2979:another test
+exiting

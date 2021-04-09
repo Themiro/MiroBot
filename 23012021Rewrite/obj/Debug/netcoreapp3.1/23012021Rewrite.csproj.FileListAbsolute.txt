@@ -70,3 +70,27 @@ C:\Users\amira\OneDrive - HTL-Rankweil\#FSST_Projekt\23012021Rewrite\23012021Rew
 C:\Users\amira\OneDrive - HTL-Rankweil\#FSST_Projekt\23012021Rewrite\23012021Rewrite\obj\Debug\netcoreapp3.1\23012021Rewrite.dll
 C:\Users\amira\OneDrive - HTL-Rankweil\#FSST_Projekt\23012021Rewrite\23012021Rewrite\obj\Debug\netcoreapp3.1\23012021Rewrite.pdb
 C:\Users\amira\OneDrive - HTL-Rankweil\#FSST_Projekt\23012021Rewrite\23012021Rewrite\obj\Debug\netcoreapp3.1\23012021Rewrite.genruntimeconfig.cache
+C:\Users\amira\Source\Repos\Themiro\MiroBot\23012021Rewrite\bin\Debug\netcoreapp3.1\23012021Rewrite.exe
+C:\Users\amira\Source\Repos\Themiro\MiroBot\23012021Rewrite\bin\Debug\netcoreapp3.1\23012021Rewrite.deps.json
+C:\Users\amira\Source\Repos\Themiro\MiroBot\23012021Rewrite\bin\Debug\netcoreapp3.1\23012021Rewrite.runtimeconfig.json
+C:\Users\amira\Source\Repos\Themiro\MiroBot\23012021Rewrite\bin\Debug\netcoreapp3.1\23012021Rewrite.runtimeconfig.dev.json
+C:\Users\amira\Source\Repos\Themiro\MiroBot\23012021Rewrite\bin\Debug\netcoreapp3.1\23012021Rewrite.dll
+C:\Users\amira\Source\Repos\Themiro\MiroBot\23012021Rewrite\bin\Debug\netcoreapp3.1\23012021Rewrite.pdb
+C:\Users\amira\Source\Repos\Themiro\MiroBot\23012021Rewrite\bin\Debug\netcoreapp3.1\Discord.Net.Commands.dll
+C:\Users\amira\Source\Repos\Themiro\MiroBot\23012021Rewrite\bin\Debug\netcoreapp3.1\Discord.Net.Core.dll
+C:\Users\amira\Source\Repos\Themiro\MiroBot\23012021Rewrite\bin\Debug\netcoreapp3.1\Discord.Net.Rest.dll
+C:\Users\amira\Source\Repos\Themiro\MiroBot\23012021Rewrite\bin\Debug\netcoreapp3.1\Discord.Net.Webhook.dll
+C:\Users\amira\Source\Repos\Themiro\MiroBot\23012021Rewrite\bin\Debug\netcoreapp3.1\Discord.Net.WebSocket.dll
+C:\Users\amira\Source\Repos\Themiro\MiroBot\23012021Rewrite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\amira\Source\Repos\Themiro\MiroBot\23012021Rewrite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\amira\Source\Repos\Themiro\MiroBot\23012021Rewrite\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\amira\Source\Repos\Themiro\MiroBot\23012021Rewrite\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+C:\Users\amira\Source\Repos\Themiro\MiroBot\23012021Rewrite\bin\Debug\netcoreapp3.1\System.Linq.Async.dll
+C:\Users\amira\Source\Repos\Themiro\MiroBot\23012021Rewrite\obj\Debug\netcoreapp3.1\23012021Rewrite.csprojAssemblyReference.cache
+C:\Users\amira\Source\Repos\Themiro\MiroBot\23012021Rewrite\obj\Debug\netcoreapp3.1\23012021Rewrite.AssemblyInfoInputs.cache
+C:\Users\amira\Source\Repos\Themiro\MiroBot\23012021Rewrite\obj\Debug\netcoreapp3.1\23012021Rewrite.AssemblyInfo.cs
+C:\Users\amira\Source\Repos\Themiro\MiroBot\23012021Rewrite\obj\Debug\netcoreapp3.1\23012021Rewrite.csproj.CoreCompileInputs.cache
+C:\Users\amira\Source\Repos\Themiro\MiroBot\23012021Rewrite\obj\Debug\netcoreapp3.1\23012021Rewrite.csproj.CopyComplete
+C:\Users\amira\Source\Repos\Themiro\MiroBot\23012021Rewrite\obj\Debug\netcoreapp3.1\23012021Rewrite.dll
+C:\Users\amira\Source\Repos\Themiro\MiroBot\23012021Rewrite\obj\Debug\netcoreapp3.1\23012021Rewrite.pdb
+C:\Users\amira\Source\Repos\Themiro\MiroBot\23012021Rewrite\obj\Debug\netcoreapp3.1\23012021Rewrite.genruntimeconfig.cache

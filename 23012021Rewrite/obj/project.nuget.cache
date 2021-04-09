@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g2mxFTWCM2Cioo9obydNqluhc42eGgWHyvpOfetnmEs+9u7+2+qFhCEf6i+iZJrjg6CkuToErZqCsudNmv5x6w==",
+  "dgSpecHash": "1ZPylV4TL2Ffq+Sm4VqkgInkLDyBD2WXek29FBGON7XWCbkym8qrUW15yiw0aXtKGBU3OprXCu5F5OYWcAJlXg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\amira\\OneDrive - HTL-Rankweil\\#FSST_Projekt\\23012021Rewrite\\23012021Rewrite\\23012021Rewrite.csproj",
+  "projectFilePath": "C:\\Users\\amira\\Source\\Repos\\Themiro\\MiroBot\\23012021Rewrite\\23012021Rewrite.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\amira\\.nuget\\packages\\discord.net\\2.2.0\\discord.net.2.2.0.nupkg.sha512",
     "C:\\Users\\amira\\.nuget\\packages\\discord.net.commands\\2.2.0\\discord.net.commands.2.2.0.nupkg.sha512",

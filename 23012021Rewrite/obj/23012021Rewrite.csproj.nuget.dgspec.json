@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\amira\\OneDrive - HTL-Rankweil\\#FSST_Projekt\\23012021Rewrite\\23012021Rewrite\\23012021Rewrite.csproj": {}
+    "C:\\Users\\amira\\Source\\Repos\\Themiro\\MiroBot\\23012021Rewrite\\23012021Rewrite.csproj": {}
   },
   "projects": {
-    "C:\\Users\\amira\\OneDrive - HTL-Rankweil\\#FSST_Projekt\\23012021Rewrite\\23012021Rewrite\\23012021Rewrite.csproj": {
+    "C:\\Users\\amira\\Source\\Repos\\Themiro\\MiroBot\\23012021Rewrite\\23012021Rewrite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amira\\OneDrive - HTL-Rankweil\\#FSST_Projekt\\23012021Rewrite\\23012021Rewrite\\23012021Rewrite.csproj",
+        "projectUniqueName": "C:\\Users\\amira\\Source\\Repos\\Themiro\\MiroBot\\23012021Rewrite\\23012021Rewrite.csproj",
         "projectName": "23012021Rewrite",
-        "projectPath": "C:\\Users\\amira\\OneDrive - HTL-Rankweil\\#FSST_Projekt\\23012021Rewrite\\23012021Rewrite\\23012021Rewrite.csproj",
+        "projectPath": "C:\\Users\\amira\\Source\\Repos\\Themiro\\MiroBot\\23012021Rewrite\\23012021Rewrite.csproj",
         "packagesPath": "C:\\Users\\amira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amira\\OneDrive - HTL-Rankweil\\#FSST_Projekt\\23012021Rewrite\\23012021Rewrite\\obj\\",
+        "outputPath": "C:\\Users\\amira\\Source\\Repos\\Themiro\\MiroBot\\23012021Rewrite\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

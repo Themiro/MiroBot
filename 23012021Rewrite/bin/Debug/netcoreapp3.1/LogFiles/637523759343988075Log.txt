@@ -1,0 +1,6 @@
+17:18:54 Discord     Discord.Net v2.2.0 (API v6)
+17:18:55 Gateway     Connecting
+17:18:56 Gateway     Connected
+17:18:56 Gateway     Ready
+26032021 161859 +00:00 Slumgeneral-vc Bread<3#2484:luv u
+exiting

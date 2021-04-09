@@ -1,0 +1,6 @@
+17:14:29 Discord     Discord.Net v2.2.0 (API v6)
+17:14:30 Gateway     Connecting
+17:14:31 Gateway     Connected
+17:14:32 Gateway     Ready
+26032021 161447 +00:00 Slumbotcmd The_miro#2979:test test test
+exiting

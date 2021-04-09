@@ -1,0 +1,14 @@
+C:\Users\amira\Source\Repos\Themiro\MiroBot\GUI_Settings_BootUp_Handler\bin\GUI_Setup\GUI_Settings_BootUp_Handler.exe.config
+C:\Users\amira\Source\Repos\Themiro\MiroBot\GUI_Settings_BootUp_Handler\bin\GUI_Setup\GUI_Settings_BootUp_Handler.exe
+C:\Users\amira\Source\Repos\Themiro\MiroBot\GUI_Settings_BootUp_Handler\bin\GUI_Setup\GUI_Settings_BootUp_Handler.pdb
+C:\Users\amira\Source\Repos\Themiro\MiroBot\GUI_Settings_BootUp_Handler\obj\GUI_Setup\MainWindow.g.cs
+C:\Users\amira\Source\Repos\Themiro\MiroBot\GUI_Settings_BootUp_Handler\obj\GUI_Setup\App.g.cs
+C:\Users\amira\Source\Repos\Themiro\MiroBot\GUI_Settings_BootUp_Handler\obj\GUI_Setup\GUI_Settings_BootUp_Handler_MarkupCompile.cache
+C:\Users\amira\Source\Repos\Themiro\MiroBot\GUI_Settings_BootUp_Handler\obj\GUI_Setup\GUI_Settings_BootUp_Handler_MarkupCompile.lref
+C:\Users\amira\Source\Repos\Themiro\MiroBot\GUI_Settings_BootUp_Handler\obj\GUI_Setup\MainWindow.baml
+C:\Users\amira\Source\Repos\Themiro\MiroBot\GUI_Settings_BootUp_Handler\obj\GUI_Setup\GUI_Settings_BootUp_Handler.g.resources
+C:\Users\amira\Source\Repos\Themiro\MiroBot\GUI_Settings_BootUp_Handler\obj\GUI_Setup\GUI_Settings_BootUp_Handler.Properties.Resources.resources
+C:\Users\amira\Source\Repos\Themiro\MiroBot\GUI_Settings_BootUp_Handler\obj\GUI_Setup\GUI_Settings_BootUp_Handler.csproj.GenerateResource.cache
+C:\Users\amira\Source\Repos\Themiro\MiroBot\GUI_Settings_BootUp_Handler\obj\GUI_Setup\GUI_Settings_BootUp_Handler.csproj.CoreCompileInputs.cache
+C:\Users\amira\Source\Repos\Themiro\MiroBot\GUI_Settings_BootUp_Handler\obj\GUI_Setup\GUI_Settings_BootUp_Handler.exe
+C:\Users\amira\Source\Repos\Themiro\MiroBot\GUI_Settings_BootUp_Handler\obj\GUI_Setup\GUI_Settings_BootUp_Handler.pdb

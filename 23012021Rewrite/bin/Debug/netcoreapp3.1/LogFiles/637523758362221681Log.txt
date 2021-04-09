@@ -1,0 +1,5 @@
+17:17:16 Discord     Discord.Net v2.2.0 (API v6)
+17:17:17 Gateway     Connecting
+17:17:18 Gateway     Connected
+17:17:18 Gateway     Ready
+exiting
