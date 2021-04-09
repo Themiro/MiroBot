@@ -21,6 +21,20 @@ namespace GUI_Settings_BootUp_Handler
     /// </summary>
     public partial class MainWindow : Window
     {
+        void SaveStartupVariables()
+        {
+            
+        }
+
+
+        void StartBot()
+        {
+            Process.Start(@".\23012021Rewrite.exe");
+            this.Close();
+        }
+
+
+
         public MainWindow()
         {
             InitializeComponent();
@@ -29,9 +43,8 @@ namespace GUI_Settings_BootUp_Handler
         private void btn_run_oncurrentsettings_Click(object sender, RoutedEventArgs e)
         {
             //Here goes the code used to save all edited variables
-
-            Process.Start(@".\23012021Rewrite.exe");
-            this.Close();
-        }
+            SaveStartupVariables();
+            StartBot();
+        } 
     }
 }
