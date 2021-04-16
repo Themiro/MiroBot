@@ -29,6 +29,7 @@ namespace GUI_Settings_BootUp_Handler
 
         void StartBot()
         {
+            //Bot Starts
             Process.Start(@".\23012021Rewrite.exe");
             this.Close();
         }
