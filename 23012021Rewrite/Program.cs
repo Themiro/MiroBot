@@ -137,7 +137,7 @@ namespace _23012021Rewrite
                 .AddSingleton(_client)
                 .AddSingleton(_commands)
                 .BuildServiceProvider();
-
+            //Loads Token in noted directory
             string token = TXTFileIO.Open(tokenpath);
 
             _client.Log += _client_Log;
