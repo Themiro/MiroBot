@@ -31,6 +31,5 @@
             <Button x:Name="btn_run_oncurrentsettings" Grid.Column="1" Grid.Row="1" Click="btn_run_oncurrentsettings_Click"/>
           
         </Grid>
-      <Button Grid.Column="0" Grid.Row="1"/>
     </Grid>
 </Window>
