@@ -93,12 +93,12 @@ namespace _23012021Rewrite
 
         public static bool firstloadup = true;
         public static string currentstatus = "";
-        public static string StatusSpath = @".\Status.txt";
-        public static string CurrentStatusPath = ".\\CurrentRoundstatus.txt";
+        public static string StatusSpath = @".\Settings\Status.txt";
+        public static string CurrentStatusPath = ".\\Settings\\CurrentRoundstatus.txt";
+        public static string tokenpath = @".\Settings\Token.txt";
         public static StreamWriter LogSR = new StreamWriter(".\\LogFiles\\"+ (DateTime.Now.Ticks).ToString() +"Log.txt");
         static void Main(string[] args)
         {
-            
 
             AppDomain.CurrentDomain.ProcessExit += new EventHandler(CurrentDomain_ProcessExit);
             
@@ -138,7 +138,7 @@ namespace _23012021Rewrite
                 .AddSingleton(_commands)
                 .BuildServiceProvider();
 
-            string token = "NzM3MDU4MzkxODM4Njg3MzMz.Xx31Hg.nKVoK9_2GsUAvYMpHNOOghtLuoc";
+            string token = TXTFileIO.Open(tokenpath);
 
             _client.Log += _client_Log;
 
