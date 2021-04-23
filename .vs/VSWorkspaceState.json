@@ -2,12 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\23012021Rewrite",
-    "\\23012021Rewrite\\bin\\Debug\\netcoreapp3.1",
-    "\\23012021Rewrite\\bin\\GUI_Setup\\netcoreapp3.1",
     "\\23012021Rewrite\\Modules",
     "\\GUI_Settings_BootUp_Handler",
     "\\GUI_Settings_BootUp_Handler\\HelperClasses"
   ],
-  "SelectedNode": "\\23012021Rewrite\\Modules\\TXTFileIO.cs",
+  "SelectedNode": "\\23012021Rewrite\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
